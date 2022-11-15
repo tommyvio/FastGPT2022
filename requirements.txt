@@ -1,0 +1,8 @@
+transformers==4.30.0
+torch==2.0.1
+numpy==1.23.5
+pandas==1.5.3
+tqdm==4.65.0
+fastapi==0.103.0
+uvicorn==0.22.0
+docker==6.1.3
